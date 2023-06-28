@@ -1,7 +1,10 @@
 # OpenWeaver_GenerativeAI_Text_To_Image
-This repository contains the code and resources related to a text-to-image generative AI internship. The goal of this internship is to explore and develop techniques for generating realistic images based on textual descriptions using generative AI models.
+This repository contains the code and resources for a text-to-image generative AI project for OpenWeaver internship. This internship aims to explore and develop techniques for generating realistic images based on textual descriptions using generative AI models.
+
+
 # Text to Image Generation
-To perform text-to-image generation in Python using the OpenAI library, you can utilize the CLIP (Contrastive Language-Image Pretraining) model and an image generation model like DALL-E. Here's an example:
+To perform text-to-image generation in Python using the OpenAI library, Gradio and an image generation model like DALL-E. Here's an example:
+
 
 # Importing Necessary Libraries
 import gradio as gr
