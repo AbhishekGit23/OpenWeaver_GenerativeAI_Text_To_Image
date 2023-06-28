@@ -1,0 +1,6 @@
+jupyter
+gradio
+facenet-pytorch
+torch
+opencv-python
+chatgpt-api
